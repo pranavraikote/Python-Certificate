@@ -2,10 +2,11 @@ from PIL import Image, ImageDraw, ImageFont
 import time
 import os
 
+#IF reading set of names from a file
 #f = open('New Text document.txt','r')
 #names = f.read().splitlines()
 
-names=['Put in names here']
+names=['Put in names here in a list']
 
 #a=os.getcwd()
 #folder_name = '6th Sem'
