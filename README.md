@@ -1,5 +1,5 @@
-# certificate_automation
-Python Script for writing data in a digital certificate
+# Python-Certificate
+Python Script for writing data in a certificate template
 
 # About
 This script helps you automate writing data on a certificate/image. In this particular code, there are two fields and spacing is done accordingly to the required (x,y) values. Change these values according to your needs. (For getting proper (x,y) co ordinates, open ur image/certificate in MS Paint and have a look there on what position you want to write something on an image)
